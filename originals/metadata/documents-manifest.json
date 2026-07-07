@@ -1,0 +1,69 @@
+{
+  "documents": [
+    {
+      "id": "03-prereads-01",
+      "title": "Decoding DNA of TPS",
+      "source_path": "originals/sources/03-prereads/01 - Decoding DNA of TPS.pdf",
+      "source_format": "pdf",
+      "section": "03-prereads",
+      "status": "converted",
+      "targets": [
+        "processed/markdown/03-prereads/01-decoding-dna-of-tps.md",
+        "processed/html/03-prereads/01-decoding-dna-of-tps.html"
+      ],
+      "converted_at": "2026-07-07T17:45:54Z"
+    },
+    {
+      "id": "03-prereads-02",
+      "title": "The Lean Trilogy",
+      "source_path": "originals/sources/03-prereads/02 - The Lean Trilogy.pdf",
+      "source_format": "pdf",
+      "section": "03-prereads",
+      "status": "converted",
+      "targets": [
+        "processed/markdown/03-prereads/02-the-lean-trilogy.md",
+        "processed/html/03-prereads/02-the-lean-trilogy.html"
+      ],
+      "converted_at": "2026-07-07T17:45:54Z"
+    },
+    {
+      "id": "03-prereads-03",
+      "title": "Doing Lean vs Being Lean",
+      "source_path": "originals/sources/03-prereads/03 - Doing Lean vs Being Lean.pdf",
+      "source_format": "pdf",
+      "section": "03-prereads",
+      "status": "converted",
+      "targets": [
+        "processed/markdown/03-prereads/03-doing-lean-vs-being-lean.md",
+        "processed/html/03-prereads/03-doing-lean-vs-being-lean.html"
+      ],
+      "converted_at": "2026-07-07T17:45:54Z"
+    },
+    {
+      "id": "03-prereads-04",
+      "title": "DBS vs TPS",
+      "source_path": "originals/sources/03-prereads/04 - DBS vs. TPS .pdf",
+      "source_format": "pdf",
+      "section": "03-prereads",
+      "status": "converted",
+      "targets": [
+        "processed/markdown/03-prereads/04-dbs-vs-tps.md",
+        "processed/html/03-prereads/04-dbs-vs-tps.html"
+      ],
+      "converted_at": "2026-07-07T17:45:55Z"
+    },
+    {
+      "id": "03-prereads-05",
+      "title": "Lean 911 Podcast Links on Problem Solving",
+      "source_path": "originals/sources/03-prereads/Lean 911 Podcast Links on Problem Solving.docx",
+      "source_format": "docx",
+      "section": "03-prereads",
+      "status": "converted",
+      "targets": [
+        "processed/markdown/03-prereads/05-lean-911-podcast-links-on-problem-solving.md",
+        "processed/html/03-prereads/05-lean-911-podcast-links-on-problem-solving.html"
+      ],
+      "converted_at": "2026-07-07T17:45:55Z"
+    }
+  ]
+}
