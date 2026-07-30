@@ -11,7 +11,7 @@
         "processed/markdown/03-prereads/01-decoding-dna-of-tps.md",
         "processed/html/03-prereads/01-decoding-dna-of-tps.html"
       ],
-      "converted_at": "2026-07-07T17:45:54Z"
+      "converted_at": "2026-07-30T14:36:30Z"
     },
     {
       "id": "03-prereads-02",
@@ -24,7 +24,7 @@
         "processed/markdown/03-prereads/02-the-lean-trilogy.md",
         "processed/html/03-prereads/02-the-lean-trilogy.html"
       ],
-      "converted_at": "2026-07-07T17:45:54Z"
+      "converted_at": "2026-07-30T14:36:30Z"
     },
     {
       "id": "03-prereads-03",
@@ -37,7 +37,7 @@
         "processed/markdown/03-prereads/03-doing-lean-vs-being-lean.md",
         "processed/html/03-prereads/03-doing-lean-vs-being-lean.html"
       ],
-      "converted_at": "2026-07-07T17:45:54Z"
+      "converted_at": "2026-07-30T14:36:30Z"
     },
     {
       "id": "03-prereads-04",
@@ -50,7 +50,7 @@
         "processed/markdown/03-prereads/04-dbs-vs-tps.md",
         "processed/html/03-prereads/04-dbs-vs-tps.html"
       ],
-      "converted_at": "2026-07-07T17:45:55Z"
+      "converted_at": "2026-07-30T14:36:30Z"
     },
     {
       "id": "03-prereads-05",
@@ -63,7 +63,254 @@
         "processed/markdown/03-prereads/05-lean-911-podcast-links-on-problem-solving.md",
         "processed/html/03-prereads/05-lean-911-podcast-links-on-problem-solving.html"
       ],
-      "converted_at": "2026-07-07T17:45:55Z"
+      "converted_at": "2026-07-30T14:36:30Z"
+    },
+    {
+      "id": "training-material-01",
+      "source_path": "originals/sources/Training Material/Lean Boot Camp Mark DeLuzio/Exercises/Preread Materials/01 - Decoding DNA of TPS.pdf",
+      "source_format": "pdf",
+      "section": "training-material",
+      "status": "converted",
+      "targets": [
+        "processed/markdown/training-material/training-material-01-01-decoding-dna-of-tps.md",
+        "processed/html/training-material/training-material-01-01-decoding-dna-of-tps.html"
+      ],
+      "title": "Decoding DNA of TPS",
+      "converted_at": "2026-07-30T14:36:30Z"
+    },
+    {
+      "id": "training-material-02",
+      "source_path": "originals/sources/Training Material/Lean Boot Camp Mark DeLuzio/Exercises/Preread Materials/02 - The Lean Trilogy.pdf",
+      "source_format": "pdf",
+      "section": "training-material",
+      "status": "converted",
+      "targets": [
+        "processed/markdown/training-material/training-material-02-02-the-lean-trilogy.md",
+        "processed/html/training-material/training-material-02-02-the-lean-trilogy.html"
+      ],
+      "title": "The Lean Trilogy",
+      "converted_at": "2026-07-30T14:36:31Z"
+    },
+    {
+      "id": "training-material-03",
+      "source_path": "originals/sources/Training Material/Lean Boot Camp Mark DeLuzio/Exercises/Preread Materials/03 - Doing Lean vs Being Lean.pdf",
+      "source_format": "pdf",
+      "section": "training-material",
+      "status": "converted",
+      "targets": [
+        "processed/markdown/training-material/training-material-03-03-doing-lean-vs-being-lean.md",
+        "processed/html/training-material/training-material-03-03-doing-lean-vs-being-lean.html"
+      ],
+      "title": "Doing Lean vs Being Lean",
+      "converted_at": "2026-07-30T14:36:31Z"
+    },
+    {
+      "id": "training-material-04",
+      "source_path": "originals/sources/Training Material/Lean Boot Camp Mark DeLuzio/Exercises/Preread Materials/04 -SD vs. DM.pdf",
+      "source_format": "pdf",
+      "section": "training-material",
+      "status": "converted",
+      "targets": [
+        "processed/markdown/training-material/training-material-04-04-sd-vs-dm.md",
+        "processed/html/training-material/training-material-04-04-sd-vs-dm.html"
+      ],
+      "title": "Strategy Deployment vs Daily Management",
+      "converted_at": "2026-07-30T14:36:31Z"
+    },
+    {
+      "id": "training-material-05",
+      "source_path": "originals/sources/Training Material/Lean Boot Camp Mark DeLuzio/Exercises/Preread Materials/DBS vs. TPS .pdf",
+      "source_format": "pdf",
+      "section": "training-material",
+      "status": "converted",
+      "targets": [
+        "processed/markdown/training-material/training-material-05-dbs-vs-tps.md",
+        "processed/html/training-material/training-material-05-dbs-vs-tps.html"
+      ],
+      "title": "DBS vs TPS",
+      "converted_at": "2026-07-30T14:36:31Z"
+    },
+    {
+      "id": "training-material-06",
+      "source_path": "originals/sources/Training Material/Lean Boot Camp Mark DeLuzio/Exercises/Preread Materials/Respecct for People Research Paper -by Mark DeLuzio.pdf",
+      "source_format": "pdf",
+      "section": "training-material",
+      "status": "converted",
+      "targets": [
+        "processed/markdown/training-material/training-material-06-respecct-for-people-research-paper-by-mark-deluzio.md",
+        "processed/html/training-material/training-material-06-respecct-for-people-research-paper-by-mark-deluzio.html"
+      ],
+      "title": "Lean Leadership and the Respect for People Principle",
+      "converted_at": "2026-07-30T14:36:31Z"
+    },
+    {
+      "id": "training-material-07",
+      "source_path": "originals/sources/Training Material/Lean Boot Camp Mark DeLuzio/Exercises/Preread Materials/The Six Sigma Hysteria.pdf",
+      "source_format": "pdf",
+      "section": "training-material",
+      "status": "converted",
+      "targets": [
+        "processed/markdown/training-material/training-material-07-the-six-sigma-hysteria.md",
+        "processed/html/training-material/training-material-07-the-six-sigma-hysteria.html"
+      ],
+      "title": "The Six Sigma Hysteria",
+      "converted_at": "2026-07-30T14:36:31Z"
+    },
+    {
+      "id": "training-material-08",
+      "source_path": "originals/sources/Training Material/Lean Boot Camp Mark DeLuzio/Exercises/Visual Mgt Paper Airplane/Visual Mgt Paper Airplane .docx",
+      "source_format": "docx",
+      "section": "training-material",
+      "status": "converted",
+      "targets": [
+        "processed/markdown/training-material/training-material-08-visual-mgt-paper-airplane.md",
+        "processed/html/training-material/training-material-08-visual-mgt-paper-airplane.html"
+      ],
+      "title": "Visual Mgt Paper Airplane",
+      "converted_at": "2026-07-30T14:36:31Z"
+    },
+    {
+      "id": "training-material-09",
+      "source_path": "originals/sources/Training Material/Lean Boot Camp Mark DeLuzio/Lean Boot Camp/Lean Boot Camp Questions Outline.docx",
+      "source_format": "docx",
+      "section": "training-material",
+      "status": "converted",
+      "targets": [
+        "processed/markdown/training-material/training-material-09-lean-boot-camp-questions-outline.md",
+        "processed/html/training-material/training-material-09-lean-boot-camp-questions-outline.html"
+      ],
+      "title": "Lean Boot Camp Questions Outline",
+      "converted_at": "2026-07-30T14:36:31Z"
+    },
+    {
+      "id": "training-material-10",
+      "source_path": "originals/sources/Training Material/Lean Boot Camp Mark DeLuzio/Lean Boot Camp/Lean Boot Camp.pdf",
+      "source_format": "pdf",
+      "section": "training-material",
+      "status": "converted",
+      "targets": [
+        "processed/markdown/training-material/training-material-10-lean-boot-camp.md",
+        "processed/html/training-material/training-material-10-lean-boot-camp.html"
+      ],
+      "title": "Lean Boot Camp",
+      "converted_at": "2026-07-30T14:36:33Z"
+    },
+    {
+      "id": "training-material-11",
+      "source_path": "originals/sources/Training Material/Manufacturing Mark DeLuzio/Cell Design/CELLDESIGN ARTICLE_Lean Machine Engineering ENG REV1.pdf",
+      "source_format": "pdf",
+      "section": "training-material",
+      "status": "converted",
+      "targets": [
+        "processed/markdown/training-material/training-material-11-celldesign-article-lean-machine-engineering-eng-rev1.md",
+        "processed/html/training-material/training-material-11-celldesign-article-lean-machine-engineering-eng-rev1.html"
+      ],
+      "title": "Lean Machine Engineering",
+      "converted_at": "2026-07-30T14:36:33Z"
+    },
+    {
+      "id": "training-material-12",
+      "source_path": "originals/sources/Training Material/Manufacturing Mark DeLuzio/Kanban/Kanban_Common_Mistakes.docx",
+      "source_format": "docx",
+      "section": "training-material",
+      "status": "converted",
+      "targets": [
+        "processed/markdown/training-material/training-material-12-kanban-common-mistakes.md",
+        "processed/html/training-material/training-material-12-kanban-common-mistakes.html"
+      ],
+      "title": "Kanban Common Mistakes",
+      "converted_at": "2026-07-30T14:36:33Z"
+    },
+    {
+      "id": "training-material-13",
+      "source_path": "originals/sources/Training Material/Manufacturing Mark DeLuzio/Kanban/Kanban_Rules.docx",
+      "source_format": "docx",
+      "section": "training-material",
+      "status": "converted",
+      "targets": [
+        "processed/markdown/training-material/training-material-13-kanban-rules.md",
+        "processed/html/training-material/training-material-13-kanban-rules.html"
+      ],
+      "title": "Kanban Rules",
+      "converted_at": "2026-07-30T14:36:33Z"
+    },
+    {
+      "id": "training-material-14",
+      "source_path": "originals/sources/Training Material/Manufacturing Mark DeLuzio/Kanban/Product Data Sheet.pdf",
+      "source_format": "pdf",
+      "section": "training-material",
+      "status": "converted",
+      "targets": [
+        "processed/markdown/training-material/training-material-14-product-data-sheet.md",
+        "processed/html/training-material/training-material-14-product-data-sheet.html"
+      ],
+      "title": "Kanban Product Data Sheet",
+      "converted_at": "2026-07-30T14:36:33Z"
+    },
+    {
+      "id": "training-material-15",
+      "source_path": "originals/sources/Training Material/Manufacturing Mark DeLuzio/TPM (Total Productive Maintenance)/TPM Red Tag Procedue Example.docx",
+      "source_format": "docx",
+      "section": "training-material",
+      "status": "converted",
+      "targets": [
+        "processed/markdown/training-material/training-material-15-tpm-red-tag-procedue-example.md",
+        "processed/html/training-material/training-material-15-tpm-red-tag-procedue-example.html"
+      ],
+      "title": "TPM Red Tag Procedure Example",
+      "converted_at": "2026-07-30T14:36:33Z"
+    },
+    {
+      "id": "training-material-16",
+      "source_path": "originals/sources/Training Material/Manufacturing Mark DeLuzio/TPM (Total Productive Maintenance)/TPM Red Tag form.docx",
+      "source_format": "docx",
+      "section": "training-material",
+      "status": "converted",
+      "targets": [
+        "processed/markdown/training-material/training-material-16-tpm-red-tag-form.md",
+        "processed/html/training-material/training-material-16-tpm-red-tag-form.html"
+      ],
+      "title": "TPM Red Tag Form",
+      "converted_at": "2026-07-30T14:36:33Z"
+    },
+    {
+      "id": "training-material-17",
+      "source_path": "originals/sources/Training Material/Strategic Planning Mark DeLuzio/STRAP Data Inventory Checklist.docx",
+      "source_format": "docx",
+      "section": "training-material",
+      "status": "converted",
+      "targets": [
+        "processed/markdown/training-material/training-material-17-strap-data-inventory-checklist.md",
+        "processed/html/training-material/training-material-17-strap-data-inventory-checklist.html"
+      ],
+      "title": "STRAP Data Inventory Checklist",
+      "converted_at": "2026-07-30T14:36:33Z"
+    },
+    {
+      "id": "training-material-18",
+      "source_path": "originals/sources/Training Material/Strategic Planning Mark DeLuzio/STRAP Presentation.pdf",
+      "source_format": "pdf",
+      "section": "training-material",
+      "status": "converted",
+      "targets": [
+        "processed/markdown/training-material/training-material-18-strap-presentation.md",
+        "processed/html/training-material/training-material-18-strap-presentation.html"
+      ],
+      "title": "STRAP Presentation",
+      "converted_at": "2026-07-30T14:36:34Z"
+    },
+    {
+      "id": "training-material-19",
+      "source_path": "originals/sources/Training Material/Strategy Deployment Mark DeLuzio/06 - SD Forms/LHC - SD Decoding DNA of TPS.pdf",
+      "source_format": "pdf",
+      "section": "training-material",
+      "status": "converted",
+      "targets": [
+        "processed/markdown/training-material/training-material-19-lhc-sd-decoding-dna-of-tps.md",
+        "processed/html/training-material/training-material-19-lhc-sd-decoding-dna-of-tps.html"
+      ],
+      "title": "SD - Decoding DNA of TPS",
+      "converted_at": "2026-07-30T14:36:34Z"
     }
   ]
 }
