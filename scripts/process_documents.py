@@ -277,7 +277,8 @@ def process_manifest() -> None:
           markdown_text = build_pdf_markdown(title, entry, paragraphs)
           html_text = build_pdf_html(title, entry, paragraphs)
         elif entry["source_format"].lower() == "docx":
-            title, markdown_body, html_body = extract_docx_content(source_path)
+            extracted_title, markdown_body, html_body = extract_docx_content(source_path)
+            title = entry.get("title") or extracted_title
             markdown_text = build_markdown(title, entry, markdown_body)
             html_text = build_html_document(title, entry, html_body)
         else:
@@ -286,6 +287,7 @@ def process_manifest() -> None:
         markdown_target.write_text(markdown_text, encoding="utf-8")
         html_target.write_text(html_text, encoding="utf-8")
 
+        entry["title"] = title
         entry["status"] = "converted"
         entry["converted_at"] = datetime.now(UTC).replace(microsecond=0).isoformat().replace("+00:00", "Z")
         section_map[entry["section"]].append(entry)

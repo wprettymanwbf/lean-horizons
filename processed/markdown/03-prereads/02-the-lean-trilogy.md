@@ -4,7 +4,7 @@ id: "03-prereads-02"
 section: "03-prereads"
 source_path: "originals/sources/03-prereads/02 - The Lean Trilogy.pdf"
 source_format: "pdf"
-generated_at: "2026-07-07T17:45:54Z"
+generated_at: "2026-07-30T14:36:30Z"
 ---
 # The Lean Trilogy
 
